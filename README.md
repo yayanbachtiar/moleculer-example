@@ -5,6 +5,7 @@
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyayanbachtiar%2Fmoleculer-example.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyayanbachtiar%2Fmoleculer-example?ref=badge_shield)
 <a href="https://codeclimate.com/github/yayanbachtiar/moleculer-example/maintainability"><img src="https://api.codeclimate.com/v1/badges/157a2f901b592016eaac/maintainability" /></a>
 [![dependencies Status](https://david-dm.org/yayanbachtiar/moleculer-example/status.svg)](https://david-dm.org/yayanbachtiar/moleculer-example)
+[![Known Vulnerabilities](https://snyk.io/test/github/yayanbachtiar/moleculer-example/badge.svg?targetFile=package.json)](https://snyk.io/test/github/yayanbachtiar/moleculer-example?targetFile=package.json)
 
 # myprod
 
