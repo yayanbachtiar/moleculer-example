@@ -1,5 +1,6 @@
 [![Moleculer](https://badgen.net/badge/Powered%20by/Moleculer/0e83cd)](https://moleculer.services)
 [![Build Status](https://travis-ci.com/yayanbachtiar/moleculer-example.svg?branch=master)](https://travis-ci.com/yayanbachtiar/moleculer-example)
+[![Coverage Status](https://coveralls.io/repos/github/yayanbachtiar/moleculer-example/badge.svg?branch=master)](https://coveralls.io/github/yayanbachtiar/moleculer-example?branch=master)
 # myprod
 
 ## NPM scripts
