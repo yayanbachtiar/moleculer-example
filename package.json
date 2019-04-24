@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "moleculer-runner --repl --hot services",
     "start": "moleculer-runner",
+    "coverall": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
     "cli": "moleculer connect Redis",
     "ci": "jest --watch",
     "test": "jest --coverage",
