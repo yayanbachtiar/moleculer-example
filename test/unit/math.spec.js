@@ -1,7 +1,6 @@
 "use strict";
 
 const { ServiceBroker } = require("moleculer");
-const { ValidationError } = require("moleculer").Errors;
 const TestService = require("../../services/math.service");
 
 describe("Test 'greeter' service", () => {
