@@ -1,6 +1,7 @@
 [![Moleculer](https://badgen.net/badge/Powered%20by/Moleculer/0e83cd)](https://moleculer.services)
 [![Build Status](https://travis-ci.com/yayanbachtiar/moleculer-example.svg?branch=master)](https://travis-ci.com/yayanbachtiar/moleculer-example)
 [![Coverage Status](https://coveralls.io/repos/github/yayanbachtiar/moleculer-example/badge.svg?branch=master)](https://coveralls.io/github/yayanbachtiar/moleculer-example?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyayanbachtiar%2Fmoleculer-example.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyayanbachtiar%2Fmoleculer-example?ref=badge_shield)
 <a href="https://codeclimate.com/github/yayanbachtiar/moleculer-example/maintainability"><img src="https://api.codeclimate.com/v1/badges/157a2f901b592016eaac/maintainability" /></a>
 [![dependencies Status](https://david-dm.org/yayanbachtiar/moleculer-example/status.svg)](https://david-dm.org/yayanbachtiar/moleculer-example)
 
@@ -16,3 +17,7 @@
 - `npm test`: Run tests & generate coverage report
 - `npm run dc:up`: Start the stack with Docker Compose
 - `npm run dc:down`: Stop the stack with Docker Compose
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyayanbachtiar%2Fmoleculer-example.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyayanbachtiar%2Fmoleculer-example?ref=badge_large)
