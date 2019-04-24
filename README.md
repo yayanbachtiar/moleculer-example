@@ -1,5 +1,5 @@
 [![Moleculer](https://badgen.net/badge/Powered%20by/Moleculer/0e83cd)](https://moleculer.services)
-
+[![Moleculer](https://travis-ci.com/yayanbachtiar/moleculer-example.svg?branch=master)](https://moleculer.services)
 # myprod
 
 ## NPM scripts
