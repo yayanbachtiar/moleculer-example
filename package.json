@@ -11,7 +11,9 @@
     "test": "jest --coverage",
     "lint": "eslint services",
     "dc:up": "docker-compose up --build -d",
-    "dc:down": "docker-compose down"
+    "dc:down": "docker-compose down",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "keywords": [
     "microservices",
@@ -28,7 +30,8 @@
   "dependencies": {
     "moleculer-web": "^0.8.0",
     "ioredis": "^4.2.0",
-    "moleculer": "^0.13.0"
+    "moleculer": "^0.13.0",
+    "snyk": "^1.189.0"
   },
   "engines": {
     "node": ">= 8.x.x"
@@ -40,5 +43,6 @@
     "roots": [
       "../test"
     ]
-  }
+  },
+  "snyk": true
 }
