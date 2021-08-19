@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "moleculer-web": "^0.8.0",
-    "ioredis": "^4.2.0",
+    "ioredis": "^4.27.8",
     "moleculer": "^0.13.0",
     "snyk": "^1.290.1"
   },
